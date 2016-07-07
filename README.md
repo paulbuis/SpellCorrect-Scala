@@ -44,12 +44,15 @@ run the test case (without logging output) in 27 seconds.
 
 For more detail on spelling correction and to see how the error model is supposed to work see lectures by
 Dan Jurafsky of Stanford on Natural Language Processing
-*[_Spelling Correction and the Noisy Channel_ (PDF slides)](https://web.stanford.edu/class/cs124/lec/spelling.pdf)
-*[_Spelling Correction and the Noisy Channel_ Draft of Chapter 6 of _Speech and Lnaguage Processing_](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+
++[_Spelling Correction and the Noisy Channel_ (PDF slides)](https://web.stanford.edu/class/cs124/lec/spelling.pdf)  
++[_Spelling Correction and the Noisy Channel_ Draft of Chapter 6 of _Speech and Language Processing_](https://web.stanford.edu/~jurafsky/slp3/6.pdf)
+
 
 YouTube Videos (including transcripts):
-*[5 - 1 - The Spelling Correction Task - Stanford NLP - Professor Dan Jurafsky & Chris Manning](https://www.youtube.com/watch?v=Z1m7McLIP9c)
-*[5 - 2 - The Noisy Channel Model of Spelling - Stanford NLP - Professor Dan Jurafsky & Chris Manning](https://www.youtube.com/watch?v=RgHr2KVXtiE)
-*[5 - 3 - Real-Word Spelling Correction - Stanford NLP - Professor Dan Jurafsky & Chris Manning](https://www.youtube.com/watch?v=AcpGX_fMHEI)
-*[5 - 4 - State of the Art Systems - Stanford NLP - Professor Dan Jurafsky & Chris Manning](https://www.youtube.com/watch?v=s7bMicEKmMU)
-*[5 - 2 - The Noisy Channel Model of Spelling - Stanford NLP - Professor Dan Jurafsky & Chris Manning (YouTube)](
+
++[5 - 1 - The Spelling Correction Task - Stanford NLP - Professor Dan Jurafsky & Chris Manning](https://www.youtube.com/watch?v=Z1m7McLIP9c)  
++[5 - 2 - The Noisy Channel Model of Spelling - Stanford NLP - Professor Dan Jurafsky & Chris Manning](https://www.youtube.com/watch?v=RgHr2KVXtiE)  
++[5 - 3 - Real-Word Spelling Correction - Stanford NLP - Professor Dan Jurafsky & Chris Manning](https://www.youtube.com/watch?v=AcpGX_fMHEI)  
++[5 - 4 - State of the Art Systems - Stanford NLP - Professor Dan Jurafsky & Chris Manning](https://www.youtube.com/watch?v=s7bMicEKmMU)
+
